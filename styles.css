@@ -1,0 +1,26 @@
+table,tr,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    }
+table{
+    width: 100%;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+th{
+    color: mediumpurple;
+
+}
+td{
+    font-family: "Comic Sans MS";
+}
+.cars{
+    color: gold;
+    background: mediumpurple;
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+}
